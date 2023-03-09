@@ -1,0 +1,1 @@
+﻿Insert into [issueBook] VALUES (2, '07/10/2020', 'a.saurabas@gmail.com', 7, '07/10/2020', '11/10/2020' );
